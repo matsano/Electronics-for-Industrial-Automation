@@ -1,5 +1,5 @@
 # Electronics-for-Industrial-Automation
-Electronics for Industrial Automation Course (ES663) Project
+Electronics for Industrial Automation Course Project
 
 ## 📋 Description
 This project consists of implementing a speed control system for a DC motor.
